@@ -1,0 +1,6 @@
+C:\Users\Aluno\source\repos\Project\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Project\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\Project\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\C#\Project\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\C#\Project\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\C#\Project\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
