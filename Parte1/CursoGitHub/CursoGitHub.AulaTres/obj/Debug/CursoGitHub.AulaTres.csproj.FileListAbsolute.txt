@@ -1,0 +1,8 @@
+C:\Users\Aluno\OneDrive\Área de Trabalho\EntrgasEXE\Parte1\CursoGitHub\CursoGitHub.AulaTres\bin\Debug\CursoGitHub.AulaTres.exe.config
+C:\Users\Aluno\OneDrive\Área de Trabalho\EntrgasEXE\Parte1\CursoGitHub\CursoGitHub.AulaTres\bin\Debug\CursoGitHub.AulaTres.exe
+C:\Users\Aluno\OneDrive\Área de Trabalho\EntrgasEXE\Parte1\CursoGitHub\CursoGitHub.AulaTres\bin\Debug\CursoGitHub.AulaTres.pdb
+C:\Users\Aluno\OneDrive\Área de Trabalho\EntrgasEXE\Parte1\CursoGitHub\CursoGitHub.AulaTres\obj\Debug\CursoGitHub.AulaTres.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive\Área de Trabalho\EntrgasEXE\Parte1\CursoGitHub\CursoGitHub.AulaTres\obj\Debug\CursoGitHub.AulaTres.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\OneDrive\Área de Trabalho\EntrgasEXE\Parte1\CursoGitHub\CursoGitHub.AulaTres\obj\Debug\CursoGitHub.AulaTres.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive\Área de Trabalho\EntrgasEXE\Parte1\CursoGitHub\CursoGitHub.AulaTres\obj\Debug\CursoGitHub.AulaTres.exe
+C:\Users\Aluno\OneDrive\Área de Trabalho\EntrgasEXE\Parte1\CursoGitHub\CursoGitHub.AulaTres\obj\Debug\CursoGitHub.AulaTres.pdb
